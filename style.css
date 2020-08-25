@@ -1,0 +1,17 @@
+button:hover {
+    box-shadow: rgba(0, 0, 0, 0.8) 0px 5px 15px, inset rgba(0, 0, 0, 0.15) 0px -10px 20px;
+    margin-bottom: 1em;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.none {
+    list-style-type: none;
+}
+
+
+.remove{
+    margin-left: 5em;
+}
